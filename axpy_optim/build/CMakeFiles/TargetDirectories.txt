@@ -1,0 +1,3 @@
+/home/helen/axpy_optim/build/CMakeFiles/AXPY_OPTIM.dir
+/home/helen/axpy_optim/build/CMakeFiles/edit_cache.dir
+/home/helen/axpy_optim/build/CMakeFiles/rebuild_cache.dir
